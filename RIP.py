@@ -1,0 +1,1 @@
+print ("    RIP\njucie wrld")
